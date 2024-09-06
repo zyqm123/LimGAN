@@ -10,8 +10,8 @@ Code
 The core code consists of two parts, as shown in the "code" directory:
 
 1. Train a Generative Adversiral Network:
-   - Script: 
-	-en_GAN.py
+   - Script:
+     - en_GAN.py
 
 2. MCMC Sampling:
    - Scripts:
